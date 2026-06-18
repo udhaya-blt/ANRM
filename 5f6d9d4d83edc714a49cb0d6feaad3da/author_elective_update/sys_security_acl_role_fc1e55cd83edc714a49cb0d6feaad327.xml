@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-16 12:11:25</sys_created_on>
+        <sys_id>fc1e55cd83edc714a49cb0d6feaad327</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1877503_automa_0_network_request.x_1877503_automa_0.network request</sys_name>
+        <sys_package display_value="Automated Network Request Management" source="x_1877503_automa_0">5f6d9d4d83edc714a49cb0d6feaad3da</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Automated Network Request Management">5f6d9d4d83edc714a49cb0d6feaad3da</sys_scope>
+        <sys_security_acl display_value="x_1877503_automa_0_network_request">201e55cd83edc714a49cb0d6feaad31f</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_fc1e55cd83edc714a49cb0d6feaad327</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-16 12:11:25</sys_updated_on>
+        <sys_user_role display_value="x_1877503_automa_0.network request" name="x_1877503_automa_0.network request">770e15cd83edc714a49cb0d6feaad34a</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Automated Network Request Management">5f6d9d4d83edc714a49cb0d6feaad3da</application>
+        <file_path/>
+        <instance_id>1ee151ecebeccfd0e483f459bad0cdbb</instance_id>
+        <instance_name>dev391526</instance_name>
+        <name>sys_security_acl_role_fc1e55cd83edc714a49cb0d6feaad327</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-16 12:11:25</sys_created_on><sys_id>fc1e55cd83edc714a49cb0d6feaad327</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1877503_automa_0_network_request.x_1877503_automa_0.network request</sys_name><sys_package display_value="Automated Network Request Management" source="x_1877503_automa_0">5f6d9d4d83edc714a49cb0d6feaad3da</sys_package><sys_policy/><sys_scope display_value="Automated Network Request Management">5f6d9d4d83edc714a49cb0d6feaad3da</sys_scope><sys_security_acl display_value="x_1877503_automa_0_network_request">201e55cd83edc714a49cb0d6feaad31f</sys_security_acl><sys_update_name>sys_security_acl_role_fc1e55cd83edc714a49cb0d6feaad327</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-16 12:11:25</sys_updated_on><sys_user_role display_value="x_1877503_automa_0.network request" name="x_1877503_automa_0.network request">770e15cd83edc714a49cb0d6feaad34a</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-293386153</payload_hash>
+        <record_name>x_1877503_automa_0_network_request.x_1877503_automa_0.network request</record_name>
+        <reverted_from/>
+        <source>936d9d4d83edc714a49cb0d6feaad3e3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-16 12:11:25</sys_created_on>
+        <sys_id>701e55cd83edc714a49cb0d6feaad34a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19ed057f47f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-16 12:11:25</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>b01e55cd4fedc714fb5a58de35f6e030</update_guid>
+        <update_guid_history>b01e55cd4fedc714fb5a58de35f6e030:-293386153</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1877503_automa_0_network_request.x_1877503_automa_0.network request">a774690d83210b14a49cb0d6feaad3a1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-16 12:39:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>20a2f80724944ba68a003e98f21606a1</sys_id>
+        <sys_metadata>fc1e55cd83edc714a49cb0d6feaad327</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1877503_automa_0_network_request.x_1877503_automa_0.network request</sys_name>
+        <sys_package display_value="Automated Network Request Management" source="x_1877503_automa_0">5f6d9d4d83edc714a49cb0d6feaad3da</sys_package>
+        <sys_parent display_value="">201e55cd83edc714a49cb0d6feaad31f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Automated Network Request Management">5f6d9d4d83edc714a49cb0d6feaad3da</sys_scope>
+        <sys_scope_delete display_value="">81070428cf124430990ab2f97bf34640</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_fc1e55cd83edc714a49cb0d6feaad327</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_fc1e55cd83edc714a49cb0d6feaad327">701e55cd83edc714a49cb0d6feaad34a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-16 12:39:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

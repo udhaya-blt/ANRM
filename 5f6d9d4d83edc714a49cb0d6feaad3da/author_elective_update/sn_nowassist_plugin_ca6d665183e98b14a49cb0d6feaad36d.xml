@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_nowassist_plugin">
+    <sn_nowassist_plugin action="DELETE">
+        <description/>
+        <icon_url/>
+        <name>Check Network Request Status</name>
+        <plugin_id>com.glide.cs.chatbot</plugin_id>
+        <skill_family display_value="Technology">0f3e04d7a320311079f66bcf26fcdacc</skill_family>
+        <sys_class_name>sn_nowassist_plugin</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-17 12:37:15</sys_created_on>
+        <sys_id>ca6d665183e98b14a49cb0d6feaad36d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Check Network Request Status</sys_name>
+        <sys_package display_value="Automated Network Request Management" source="x_1877503_automa_0">5f6d9d4d83edc714a49cb0d6feaad3da</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Automated Network Request Management">5f6d9d4d83edc714a49cb0d6feaad3da</sys_scope>
+        <sys_update_name>sn_nowassist_plugin_ca6d665183e98b14a49cb0d6feaad36d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-17 12:37:15</sys_updated_on>
+    </sn_nowassist_plugin>
+    <sys_translated_text action="DELETE" query="documentkey=ca6d665183e98b14a49cb0d6feaad36d"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Automated Network Request Management">5f6d9d4d83edc714a49cb0d6feaad3da</application>
+        <file_path/>
+        <instance_id>1ee151ecebeccfd0e483f459bad0cdbb</instance_id>
+        <instance_name>dev391526</instance_name>
+        <name>sn_nowassist_plugin_ca6d665183e98b14a49cb0d6feaad36d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_nowassist_plugin"><sn_nowassist_plugin action="INSERT_OR_UPDATE"><description/><icon_url/><name>Check Network Request Status</name><plugin_id>com.glide.cs.chatbot</plugin_id><skill_family display_value="Technology">0f3e04d7a320311079f66bcf26fcdacc</skill_family><sys_class_name>sn_nowassist_plugin</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-17 12:37:15</sys_created_on><sys_id>ca6d665183e98b14a49cb0d6feaad36d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Check Network Request Status</sys_name><sys_package display_value="Automated Network Request Management" source="x_1877503_automa_0">5f6d9d4d83edc714a49cb0d6feaad3da</sys_package><sys_policy/><sys_scope display_value="Automated Network Request Management">5f6d9d4d83edc714a49cb0d6feaad3da</sys_scope><sys_update_name>sn_nowassist_plugin_ca6d665183e98b14a49cb0d6feaad36d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-17 12:37:15</sys_updated_on></sn_nowassist_plugin><sys_translated_text action="delete_multiple" query="documentkey=ca6d665183e98b14a49cb0d6feaad36d"/></record_update>]]></payload>
+        <payload_hash>1495498359</payload_hash>
+        <record_name>Check Network Request Status</record_name>
+        <reverted_from/>
+        <source>936d9d4d83edc714a49cb0d6feaad3e3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-17 12:37:16</sys_created_on>
+        <sys_id>459daed183e98b14a49cb0d6feaad388</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19ed595f8fd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-17 12:37:16</sys_updated_on>
+        <type>Now Assist Plugin</type>
+        <update_guid>059daed150e98b14894da51bd0f52e87</update_guid>
+        <update_guid_history>059daed150e98b14894da51bd0f52e87:1495498359</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Check Network Request Status">86ae62dd83e98b14a49cb0d6feaad3c5</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-17 12:41:59</sys_created_on>
+        <sys_db_object display_value="" name="sn_nowassist_plugin">sn_nowassist_plugin</sys_db_object>
+        <sys_id>b32774cde69942f1a85b1c06c880aa99</sys_id>
+        <sys_metadata>ca6d665183e98b14a49cb0d6feaad36d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Check Network Request Status</sys_name>
+        <sys_package display_value="Automated Network Request Management" source="x_1877503_automa_0">5f6d9d4d83edc714a49cb0d6feaad3da</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Automated Network Request Management">5f6d9d4d83edc714a49cb0d6feaad3da</sys_scope>
+        <sys_scope_delete display_value="">81070428cf124430990ab2f97bf34640</sys_scope_delete>
+        <sys_update_name>sn_nowassist_plugin_ca6d665183e98b14a49cb0d6feaad36d</sys_update_name>
+        <sys_update_version display_value="sn_nowassist_plugin_ca6d665183e98b14a49cb0d6feaad36d">459daed183e98b14a49cb0d6feaad388</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-17 12:41:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

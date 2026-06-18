@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <applies_to/>
+        <condition/>
+        <controlled_by_refs/>
+        <decision_type>allow</decision_type>
+        <description/>
+        <local_or_existing>Existing</local_or_existing>
+        <name>x_1877503_automa_0_network_request</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-16 12:11:24</sys_created_on>
+        <sys_id>201e55cd83edc714a49cb0d6feaad31f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1877503_automa_0_network_request</sys_name>
+        <sys_package display_value="Automated Network Request Management" source="x_1877503_automa_0">5f6d9d4d83edc714a49cb0d6feaad3da</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Automated Network Request Management">5f6d9d4d83edc714a49cb0d6feaad3da</sys_scope>
+        <sys_update_name>sys_security_acl_201e55cd83edc714a49cb0d6feaad31f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-16 12:11:24</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Automated Network Request Management">5f6d9d4d83edc714a49cb0d6feaad3da</application>
+        <file_path/>
+        <instance_id>1ee151ecebeccfd0e483f459bad0cdbb</instance_id>
+        <instance_name>dev391526</instance_name>
+        <name>sys_security_acl_201e55cd83edc714a49cb0d6feaad31f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description/><local_or_existing>Existing</local_or_existing><name>x_1877503_automa_0_network_request</name><operation display_value="delete">delete</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-16 12:11:24</sys_created_on><sys_id>201e55cd83edc714a49cb0d6feaad31f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1877503_automa_0_network_request</sys_name><sys_package display_value="Automated Network Request Management" source="x_1877503_automa_0">5f6d9d4d83edc714a49cb0d6feaad3da</sys_package><sys_policy/><sys_scope display_value="Automated Network Request Management">5f6d9d4d83edc714a49cb0d6feaad3da</sys_scope><sys_update_name>sys_security_acl_201e55cd83edc714a49cb0d6feaad31f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-16 12:11:24</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-1120127643</payload_hash>
+        <record_name>x_1877503_automa_0_network_request</record_name>
+        <reverted_from/>
+        <source>936d9d4d83edc714a49cb0d6feaad3e3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-16 12:11:25</sys_created_on>
+        <sys_id>641e55cd83edc714a49cb0d6feaad324</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19ed057f1cc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-16 12:11:25</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>241e55cd1aedc71498445c6c4b424b23</update_guid>
+        <update_guid_history>241e55cd1aedc71498445c6c4b424b23:-1120127643</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-16 12:39:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>343573a8dcfa4f02af270a1bbc952f04</sys_id>
+        <sys_metadata>201e55cd83edc714a49cb0d6feaad31f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1877503_automa_0_network_request</sys_name>
+        <sys_package display_value="Automated Network Request Management" source="x_1877503_automa_0">5f6d9d4d83edc714a49cb0d6feaad3da</sys_package>
+        <sys_parent display_value="x_1877503_automa_0_network_request">920e91cd83edc714a49cb0d6feaad39d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Automated Network Request Management">5f6d9d4d83edc714a49cb0d6feaad3da</sys_scope>
+        <sys_scope_delete display_value="">81070428cf124430990ab2f97bf34640</sys_scope_delete>
+        <sys_update_name>sys_security_acl_201e55cd83edc714a49cb0d6feaad31f</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_201e55cd83edc714a49cb0d6feaad31f">641e55cd83edc714a49cb0d6feaad324</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-16 12:39:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

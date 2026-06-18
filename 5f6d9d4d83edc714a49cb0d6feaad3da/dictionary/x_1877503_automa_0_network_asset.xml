@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="2490650583210b14a49cb0d6feaad30f" label="Network Asset" max_length="40" name="x_1877503_automa_0_network_asset" type="collection">
+        <element label="Ip address" max_length="40" name="ip_address" type="string"/>
+        <element label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Available" sequence="1" value="available"/>
+                <element inactive_on_update="false" label="In Use" sequence="0" value="in_use"/>
+                <element inactive_on_update="false" label="Retired" sequence="2" value="retired"/>
+            </choice>
+        </element>
+        <element label="Assigned Request" max_length="32" name="assigned_request" reference="x_1877503_automa_0_network_request" type="reference"/>
+        <element label="Asset type" max_length="40" name="asset_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Endpoint" sequence="4" value="endpoint"/>
+                <element inactive_on_update="false" label="firewall" sequence="2" value="firewall"/>
+                <element inactive_on_update="false" label="Routes" sequence="0" value="routes"/>
+                <element inactive_on_update="false" label="Server" sequence="3" value="server"/>
+                <element inactive_on_update="false" label="switch" sequence="1" value="switch"/>
+            </choice>
+        </element>
+        <element label="Asset tag" max_length="40" name="asset_tag" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <index name="index">
+            <element name="assigned_request"/>
+        </index>
+    </element>
+</database>

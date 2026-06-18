@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="assigned_request" label="Assigned Request" language="en" table="x_1877503_automa_0_network_asset">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>assigned_request</element>
+            <help/>
+            <hint/>
+            <label>Assigned Request</label>
+            <language>en</language>
+            <name>x_1877503_automa_0_network_asset</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-16 12:26:08</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Assigned Request</sys_name>
+            <sys_package display_value="Automated Network Request Management" source="x_1877503_automa_0">5f6d9d4d83edc714a49cb0d6feaad3da</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Automated Network Request Management">5f6d9d4d83edc714a49cb0d6feaad3da</sys_scope>
+            <sys_update_name>sys_documentation_x_1877503_automa_0_network_asset_assigned_request_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-16 12:26:10</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

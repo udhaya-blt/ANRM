@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="d60e91cd83edc714a49cb0d6feaad399" label="Network Request" max_length="40" name="x_1877503_automa_0_network_request" type="collection">
+        <element label="Requested For" mandatory="true" max_length="32" name="requested_for" reference="sys_user" type="reference"/>
+        <element label="Network zone" max_length="40" name="network_zone" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Guest" sequence="2" value="guest"/>
+                <element inactive_on_update="false" label="Restricted" sequence="3" value="restricted"/>
+                <element inactive_on_update="false" label="DMZ" sequence="0" value="dmz"/>
+                <element inactive_on_update="false" label="Internal" sequence="1" value="internal"/>
+            </choice>
+        </element>
+        <element label="Approval Status" max_length="40" name="approval_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="approved" sequence="1" value="approved"/>
+                <element inactive_on_update="false" label="pending" sequence="0" value="pending"/>
+                <element inactive_on_update="false" label="Rejected" sequence="2" value="rejected"/>
+            </choice>
+        </element>
+        <element label="Request Type" max_length="40" name="request_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="IP Allocation" sequence="2" value="ip_allocation"/>
+                <element inactive_on_update="false" label="Decommission" sequence="3" value="decommission"/>
+                <element inactive_on_update="false" label="firewall change" sequence="1" value="firewall_change"/>
+                <element inactive_on_update="false" label="New connection" sequence="0" value="new_connection"/>
+            </choice>
+        </element>
+        <element label="Department" max_length="40" name="department" type="string"/>
+        <element label="Justification" max_length="40" name="justification" type="string_full_utf8"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <index name="index">
+            <element name="requested_for"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

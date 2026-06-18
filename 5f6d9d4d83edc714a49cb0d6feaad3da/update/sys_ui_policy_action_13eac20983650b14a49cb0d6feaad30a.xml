@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>justification</field>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-16 15:27:49</sys_created_on>
+        <sys_id>13eac20983650b14a49cb0d6feaad30a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>justification</sys_name>
+        <sys_package display_value="Automated Network Request Management" source="x_1877503_automa_0">5f6d9d4d83edc714a49cb0d6feaad3da</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Automated Network Request Management">5f6d9d4d83edc714a49cb0d6feaad3da</sys_scope>
+        <sys_update_name>sys_ui_policy_action_13eac20983650b14a49cb0d6feaad30a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-16 15:27:49</sys_updated_on>
+        <table>x_1877503_automa_0_network_request</table>
+        <ui_policy display_value="Mandatory justification on rejection.">a9b9ce4183650b14a49cb0d6feaad34d</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=13eac20983650b14a49cb0d6feaad30a"/>
+</record_update>
